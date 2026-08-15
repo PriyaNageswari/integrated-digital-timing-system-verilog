@@ -6,7 +6,7 @@ A Verilog HDL-based digital timing system that combines a **24-hour Digital Cloc
 
 An interactive HTML5 demonstration of the project is included in the repository.
 
-**[▶ Open Interactive Demo](./index.html)**
+**[▶ Open Interactive Demo](integrated-digital-timing-system-verilog.html)**
 
 The demo provides an interactive view of:
 
